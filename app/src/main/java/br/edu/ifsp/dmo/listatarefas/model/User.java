@@ -3,9 +3,7 @@ package br.edu.ifsp.dmo.listatarefas.model;
 import java.io.Serializable;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Objects;
 
-import kotlinx.coroutines.scheduling.Task;
 
 public class User implements Serializable {
 
